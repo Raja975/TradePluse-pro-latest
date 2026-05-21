@@ -1,0 +1,6 @@
+{
+  "name": "Option Signal Pro",
+  "description": "An AI-powered options trading companion that provides real-time Call & Put indicators, accurate technical target levels, stop loss alerts, and automated trading signal confirmation with professional technical commentary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
